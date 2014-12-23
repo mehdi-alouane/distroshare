@@ -1,4 +1,4 @@
-Distroshare Ubuntu Imager
+Distroshare 
 =========================
 
 This project is brought to you by distroshare.com.  Distroshare.com is 
