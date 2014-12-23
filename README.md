@@ -1,16 +1,7 @@
 Distroshare 
 =========================
 
-This project is brought to you by distroshare.com.  Distroshare.com is 
-a new site for sharing customized open source operating system distributions.  
-Too often do users need to customize open source operating systems, 
-such as Ubuntu, to work correctly on their machines.  By distributing 
-a custom Ubuntu distro with the kinks worked out for your machine, you 
-would be helping others to run Ubuntu if they have the same machine.
-
-
-
-Distroshare Ubuntu Imager creates an installable Live ISO from an installed 
+Distroshare creates an installable Live ISO from an installed 
 Ubuntu or derivative distribution.
 
 It is a bash script, similar to Remastersys and its forks.  The script is 
@@ -19,8 +10,8 @@ based on this tutorial: https://help.ubuntu.com/community/MakeALiveCD/DVD/Bootab
 To run the script, run it from the directory where it is located.  For example:
 
 
-cd ~/distroshare-ubuntu-imager-1.0
-./distroshare-ubuntu-imager.sh
+cd ~/distroshare
+./distroshare.sh
 
 To boot the ISO from a USB stick, you can use the dd command like this:
 
